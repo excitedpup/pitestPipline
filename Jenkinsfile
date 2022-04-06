@@ -11,7 +11,7 @@ pipeline {
             steps {
                 // Get some code from a GitHub repository
                 // **link needs to be updated**
-                git branch: 'main', url: 'https://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@github.com/deemsa64/Junit-Demo.git'
+                git branch: 'main', url: 'https://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@github.com/deemsa64/Junit-Demo.git'
                 
                 // Set a maven project workspace with Pit as well as Git Commands
                 // ***ws path may need to be updated*** remove this comment when updated
